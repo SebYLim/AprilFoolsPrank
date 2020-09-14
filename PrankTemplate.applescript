@@ -1,4 +1,4 @@
-tell application "Finder" to say "PUT WHATEVER YOU WANT YOUR VICTIM'S COMPUTER TO SAY"
+tell application "Finder" to say "PUT WHATEVER YOU WANT THE COMPUTER TO SAY"
 tell application "Finder"
  activate
 repeat # times
